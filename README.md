@@ -2,7 +2,7 @@
 
 A dark, blue and cyan theme for [Omarchy Quattro](https://github.com/basecamp/omarchy).
 
-![Preview](preview.png)
+![Preview](https://raw.githubusercontent.com/bjarneo/omarchy-starcraft-theme/main/preview.png)
 
 ## Installation
 
